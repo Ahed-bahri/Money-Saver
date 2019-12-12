@@ -51,7 +51,7 @@
     "d3-shape": "1.2.0",
     "expo": "26.0.0",
     "firebase": "^4.12.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.13",
     "moment": "^2.21.0",
     "native-base": "2.3.5",
     "ramda": "^0.25.0",
