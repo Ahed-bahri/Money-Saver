@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Money Saver",
+    "icon": "./app-icon.png",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.money.saver"
+    },
+    "sdkVersion": "24.0.0",
+    "slug": "MoneySaver",
+    "loading": {
+      "hideExponentText": false,
+      "icon": "./assets/loading.png"
+    },
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    },
+    "androidStatusBarColor": "#0F1121",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#0F1121"
+    }
+  }
+}
